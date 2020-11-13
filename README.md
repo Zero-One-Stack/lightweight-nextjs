@@ -3,7 +3,7 @@
 A lightweight starter without the added bulk, less than 300mb. 
 
 This starter will help if you:
- - Want to launch something quickly ie, single page, splash page, etc 
+ - Want to launch something quickly ie, single page, splash page, etc with seo in mind
  - Get started on a new project without so many added dependencies 
  - Want to add your own css framework 
 
