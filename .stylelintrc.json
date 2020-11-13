@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "extends": "stylelint-config-sass-guidelines",
+  "rules": {
+    "color-hex-case": "upper",
+    "max-nesting-depth": 4
+  }
+}
